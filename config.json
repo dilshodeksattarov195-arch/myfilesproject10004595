@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingcncrypt",
+        "uuid": 11138280,
+        "checksum": "083xd"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
